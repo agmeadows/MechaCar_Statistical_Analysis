@@ -19,8 +19,8 @@ The suspension coil data set was analyzed to show:
 
 The results are:
 
-### Statistics Across All Lots
+#### Statistics Across All Lots
 ![Stats Across Lots](/images/stats_across_lots.PNG)
 
-### Statistics Per Lot
+#### Statistics Per Lot
 ![Stats Across Lots](/images/stats_per_lot.PNG)

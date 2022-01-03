@@ -51,3 +51,35 @@ Similar to lot 1, the P-Value is lower than 0.05 and the mean is 1500.02. The PS
 ![Stats Across Lots](/images/ttest_lot3.PNG)
 
 Here the P-Value is above 0.05 and the mean is 1496.14. The PSI values are statistically different.
+
+## Study Design: MechaCar vs Competition
+
+It would be beneficial to study and quantify how MechaCar holds up against the competition. This can be done by analyzing the following metrics:
+
+    - Initial cost of vehicle
+    - fuel economy
+    - safety rating
+    - cost of ownership
+    - reliability
+
+The metrics to test with the type of test would be:
+
+    - Two-Sample t-Test of vehicle cost vs the competition based on vehicle class
+    - Two-Sample t-Test Fuel economy vs the competition base on vehicle class
+    - ANOVA test of safety rating vs competition
+    - Linear regression test of vehicle cost of owenership vs age
+    - Linear regression test of reliability vs vehicle age
+
+The alternate hypothesis is that the MechaCar vehicles are statistically superior to the competition. The tests outlined above shoulddefinitively prove, beyond random chance, that the vehicles are superior. 
+
+The required data would be as follows:
+
+    - Vehicle name
+    - Vehicle class
+    - Initial purchase cost
+    - Engine type
+    - MPG
+    - Age of vehicle
+    - Cost of repairs
+    - Number of problems reported
+    - NHSTA safety rating

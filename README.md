@@ -33,7 +33,7 @@ T-Tests were run across all lots and for each lot to determine if the PSI values
 Here are the results:
 
 #### T-Test for all lots - from a sample of 50
-![Stats Across Lots](/images/ttest_all.PNG.PNG)
+![Stats Across Lots](/images/ttest_all.PNG)
 
 The P-Value is above 0.05 and the mean is 1499.02. The PSI values are not statistically different
 
